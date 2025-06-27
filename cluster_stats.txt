@@ -1,0 +1,5 @@
+Cluster 0 top words: chicksin (var=8.285e-03), teamthe (var=5.983e-03), ransacked (var=4.579e-03), herpetologists (var=4.021e-03), actorwith (var=7.767e-03)
+Cluster 1 top words: replacementhe (var=3.283e-03), litigating (var=4.783e-03), frags (var=1.913e-03), ineke (var=1.797e-03), akpalanivel (var=2.572e-03)
+Cluster 2 top words: replacementhe (var=3.164e-03), nahan (var=4.105e-03), keates (var=2.044e-03), jaxx (var=1.224e-03), nonissues (var=2.675e-03)
+Cluster 3 top words: schuurman (var=1.029e-02), jpmorgan (var=8.856e-03), maraveyas (var=7.655e-03), occasionsin (var=3.390e-03), scaletta (var=7.208e-03)
+Cluster 4 top words: scaletta (var=9.599e-03), consternation (var=3.094e-03), splmanasir (var=3.317e-03), jaxx (var=1.792e-03), kia (var=2.430e-03)
